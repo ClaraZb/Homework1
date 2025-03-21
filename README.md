@@ -10,8 +10,8 @@ g++ ejercicio2.cpp -Wall -g -o ej2
 ./ej2
 
 Ejercicio 3:
-g++ ejercicio2.cpp -Wall -g -o ej2
-./ej2
+g++ ejercicio3.cpp -Wall -g -o ej3
+./ej3
 
 Ejercicio 4:
 g++ ejercicio4.cpp -Wall -g -o ej4

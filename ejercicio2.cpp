@@ -28,6 +28,7 @@ string prioridad_string(int prioridad) { //para cada caso devuelvo lo mismo pero
         case INFO: return "INFO";
         case DEBUG: return "DEBUG";
         case SECURITY: return "SECURITY";
+        default: return "-";
     }
 } 
 
